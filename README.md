@@ -13,7 +13,7 @@ Test task for Relab
 ## Start app
 1. Clone repository
    ```
-    git clone https://github.com/AndrewIsaev/fastApiProject.git
+    git clone https://github.com/AndrewIsaev/fastApiProject.git](https://github.com/AndrewIsaev/RelabTestTask.git
 2. Run docker container
    ```
     docker-compose up --build
