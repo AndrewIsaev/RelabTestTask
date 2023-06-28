@@ -6,9 +6,9 @@ Test task for Relab
 ***
 ## Technology stack
 - python 3.10.6
-- fastapi = "0.98.0"
-- uvicorn = "0.22.0"
-- websockets = "11.0.3"
+- fastapi 0.98.0
+- uvicorn 0.22.0
+- websockets 11.0.3
 ***
 ## Start app
 1. Clone repository
